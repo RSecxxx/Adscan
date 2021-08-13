@@ -4,10 +4,15 @@ Common Vulnerabilities and Exposures (CVE) adalah sistem yang menyediakan menyed
 
 ## Tutor perintah
 $ apt-get update
+
 $ apt-get upgrade
+
 $ apt-get install git
+
 $ git clone https://github.com/RSecxxx/Adscan.git
+
 $ cd Adscan
+
 $ bash little
 
 ## cara menggunakan
