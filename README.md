@@ -22,4 +22,4 @@ payload
 • /wp-admin/load-styles.php?&load=common,forms,admin-menu,dashboard,list-tables,edit/
 ```
 ## Picture little
-<a href="https://ibb.co/D8gqFx3"><img src="https://i.ibb.co/D8gqFx3/download.png" alt="download" border="0"></a>
+<a href="https://ibb.co/D8gqFx3"><img src="https://i.ibb.co/ZY1Zrny/download.png" alt="download" border="0"></a>
